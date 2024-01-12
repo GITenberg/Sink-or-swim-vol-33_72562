@@ -1,0 +1,31 @@
+_repo: Sink-or-swim-vol-33_72562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Houston, Matilda Charlotte
+    gutenberg_agent_id: '56729'
+    url: http://www.gutenberg.org/2009/agents/56729
+description: ''
+gutenberg_issued: '2023-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72562'
+language: en
+pgterms:marc904:
+- https://archive.org/details/sinkorswimnovel01hous/page/n3/mode/2up
+- https://archive.org/details/sinkorswimnovel02hous/page/n3/mode/2up
+- https://archive.org/details/sinkorswimnovel03hous/page/n3/mode/2up
+pgterms:marc905: 20211007081416houston
+pgterms:marc906: '1868'
+pgterms:marc907: gb
+production_note: Sonya Schermann, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bTinsley Brothers, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sink or swim? vol. 3/3
+url: http://www.gutenberg.org/ebooks/72562
